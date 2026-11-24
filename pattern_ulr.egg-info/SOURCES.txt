@@ -1,0 +1,12 @@
+README.md
+setup.py
+pattern_ulr/__init__.py
+pattern_ulr/bootstrap.py
+pattern_ulr/helpers.py
+pattern_ulr/mack.py
+pattern_ulr.egg-info/PKG-INFO
+pattern_ulr.egg-info/SOURCES.txt
+pattern_ulr.egg-info/dependency_links.txt
+pattern_ulr.egg-info/requires.txt
+pattern_ulr.egg-info/top_level.txt
+tests/test_validation.py

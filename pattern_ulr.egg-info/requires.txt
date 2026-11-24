@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+tqdm
+matplotlib
+
+[examples]
+matplotlib
+
+[test]
+pytest
+chainladder
